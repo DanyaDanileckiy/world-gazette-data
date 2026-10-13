@@ -1,0 +1,1863 @@
+{
+ "dw-world": {
+  "ok": true,
+  "items": 13
+ },
+ "dw-europe": {
+  "ok": true,
+  "items": 20
+ },
+ "die-zeit": {
+  "ok": true,
+  "items": 15
+ },
+ "faz": {
+  "ok": true,
+  "items": 60
+ },
+ "france24-en": {
+  "ok": true,
+  "items": 24
+ },
+ "france24-europe": {
+  "ok": true,
+  "items": 30
+ },
+ "le-figaro": {
+  "ok": true,
+  "items": 20
+ },
+ "der-spiegel": {
+  "ok": true,
+  "items": 20
+ },
+ "le-monde": {
+  "ok": true,
+  "items": 16
+ },
+ "the-guardian-world": {
+  "ok": true,
+  "items": 45
+ },
+ "rfi": {
+  "ok": true,
+  "items": 21
+ },
+ "sky-news": {
+  "ok": true,
+  "items": 8
+ },
+ "the-independent": {
+  "ok": true,
+  "items": 60
+ },
+ "the-telegraph": {
+  "ok": true,
+  "items": 60
+ },
+ "rt-news": {
+  "ok": true,
+  "items": 60
+ },
+ "irish-times": {
+  "ok": true,
+  "items": 60
+ },
+ "corriere-della-sera": {
+  "ok": true,
+  "items": 60
+ },
+ "el-pa-s": {
+  "ok": true,
+  "items": 60
+ },
+ "el-mundo": {
+  "ok": true,
+  "items": 26
+ },
+ "ansa": {
+  "ok": true,
+  "items": 10
+ },
+ "p-blico-pt": {
+  "ok": true,
+  "items": 10
+ },
+ "der-standard": {
+  "ok": true,
+  "items": 60
+ },
+ "yle-news": {
+  "ok": true,
+  "items": 20
+ },
+ "notes-from-poland": {
+  "ok": true,
+  "items": 12
+ },
+ "tvn24": {
+  "ok": true,
+  "items": 21
+ },
+ "nos-nieuws": {
+  "ok": true,
+  "items": 20
+ },
+ "dr-nyheder": {
+  "ok": true,
+  "items": 20
+ },
+ "romania-insider": {
+  "ok": true,
+  "items": 60
+ },
+ "radio-prague-intl": {
+  "ok": true,
+  "items": 60
+ },
+ "the-brussels-times": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "tagesschau": {
+  "ok": true,
+  "items": 40
+ },
+ "nrk": {
+  "ok": true,
+  "items": 60
+ },
+ "lrt": {
+  "ok": true,
+  "items": 60
+ },
+ "hungary-today": {
+  "ok": true,
+  "items": 5
+ },
+ "nl-times": {
+  "ok": true,
+  "items": 10
+ },
+ "kyiv-independent": {
+  "ok": true,
+  "items": 15
+ },
+ "err-news": {
+  "ok": true,
+  "items": 50
+ },
+ "total-croatia-news": {
+  "ok": true,
+  "items": 10
+ },
+ "ukrainska-pravda": {
+  "ok": true,
+  "items": 20
+ },
+ "balkan-insight": {
+  "ok": true,
+  "items": 60
+ },
+ "lsm-latvia": {
+  "ok": true,
+  "items": 50
+ },
+ "euromaidan-press": {
+  "ok": true,
+  "items": 29
+ },
+ "the-moscow-times": {
+  "ok": true,
+  "items": 50
+ },
+ "meduza-ru": {
+  "ok": true,
+  "items": 30
+ },
+ "meduza-en": {
+  "ok": true,
+  "items": 30
+ },
+ "kathimerini": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "euronews": {
+  "ok": true,
+  "items": 50
+ },
+ "politico-europe": {
+  "ok": true,
+  "items": 10
+ },
+ "kyiv-post": {
+  "ok": true,
+  "items": 60
+ },
+ "novaya-gazeta-europe": {
+  "ok": true,
+  "items": 60
+ },
+ "ukrinform": {
+  "ok": true,
+  "items": 30
+ },
+ "the-local-sweden": {
+  "ok": true,
+  "items": 20
+ },
+ "nhk-world": {
+  "ok": true,
+  "items": 7
+ },
+ "japan-times": {
+  "ok": true,
+  "items": 30
+ },
+ "nikkei-asia": {
+  "ok": true,
+  "items": 50
+ },
+ "cyprus-mail": {
+  "ok": true,
+  "items": 20
+ },
+ "the-slovak-spectator": {
+  "ok": true,
+  "items": 20
+ },
+ "civil-ge": {
+  "ok": true,
+  "items": 10
+ },
+ "moldova-org": {
+  "ok": true,
+  "items": 10
+ },
+ "japan-today": {
+  "ok": true,
+  "items": 30
+ },
+ "asahi": {
+  "ok": true,
+  "items": 40
+ },
+ "novinite": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "yonhap": {
+  "ok": true,
+  "items": 60
+ },
+ "hong-kong-free-press": {
+  "ok": true,
+  "items": 30
+ },
+ "taipei-times": {
+  "ok": true,
+  "items": 55
+ },
+ "luxembourg-times": {
+  "ok": true,
+  "items": 50
+ },
+ "mainichi": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "euobserver": {
+  "ok": true,
+  "items": 20
+ },
+ "swissinfo": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 410"
+ },
+ "the-diplomat": {
+  "ok": true,
+  "items": 60
+ },
+ "times-of-india": {
+  "ok": true,
+  "items": 46
+ },
+ "times-of-malta": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "the-hindu": {
+  "ok": true,
+  "items": 60
+ },
+ "taiwan-news": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "nk-news": {
+  "ok": true,
+  "items": 60
+ },
+ "kyodo": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "hindustan-times": {
+  "ok": true,
+  "items": 60
+ },
+ "euractiv": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "ndtv": {
+  "ok": true,
+  "items": 20
+ },
+ "scmp": {
+  "ok": true,
+  "items": 50
+ },
+ "korea-times": {
+  "ok": true,
+  "items": 11
+ },
+ "dawn": {
+  "ok": true,
+  "items": 28
+ },
+ "iceland-review": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "slovenia-times": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "express-tribune": {
+  "ok": true,
+  "items": 60
+ },
+ "straits-times": {
+  "ok": true,
+  "items": 50
+ },
+ "cna": {
+  "ok": true,
+  "items": 20
+ },
+ "daily-mirror-lk": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "korea-herald": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "sixth-tone": {
+  "ok": true,
+  "items": 51
+ },
+ "khaosod-english": {
+  "ok": true,
+  "items": 5
+ },
+ "kathmandu-post": {
+  "ok": true,
+  "items": 40
+ },
+ "focus-taiwan": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "indian-express": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "korea-joongang-daily": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "rappler": {
+  "ok": true,
+  "items": 10
+ },
+ "malay-mail": {
+  "ok": true,
+  "items": 50
+ },
+ "vnexpress": {
+  "ok": true,
+  "items": 60
+ },
+ "the-daily-star": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "the-irrawaddy": {
+  "ok": true,
+  "items": 10
+ },
+ "times-of-central-asia": {
+  "ok": true,
+  "items": 10
+ },
+ "antara": {
+  "ok": true,
+  "items": 50
+ },
+ "asia-times": {
+  "ok": true,
+  "items": 20
+ },
+ "the-japan-news": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "azatutyun": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "daily-maverick": {
+  "ok": true,
+  "items": 53
+ },
+ "inquirer": {
+  "ok": true,
+  "items": 20
+ },
+ "bangkok-post": {
+  "ok": true,
+  "items": 10
+ },
+ "jamnews": {
+  "ok": true,
+  "items": 10
+ },
+ "jakarta-globe": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "vanguard": {
+  "ok": true,
+  "items": 20
+ },
+ "daily-trust": {
+  "ok": true,
+  "items": 14
+ },
+ "tuoi-tre-news": {
+  "ok": true,
+  "items": 50
+ },
+ "the-star-my": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "premium-times": {
+  "ok": true,
+  "items": 15
+ },
+ "kun-uz": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "mail-guardian": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "iol": {
+  "ok": true,
+  "items": 30
+ },
+ "the-standard-ke": {
+  "ok": true,
+  "items": 30
+ },
+ "khmer-times": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "eurasianet": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "sahara-reporters": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "ghanaweb": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "timeslive": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "nation-africa": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "the-guardian-ng": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "hespress-en": {
+  "ok": true,
+  "items": 10
+ },
+ "the-new-times": {
+  "ok": false,
+  "items": 0,
+  "error": "readTagExp returned undefined at position 6870. Context: \"&!x(e)&&(\"array\"===n||"
+ },
+ "tolo-news": {
+  "ok": true,
+  "items": 30
+ },
+ "punch": {
+  "ok": true,
+  "items": 30
+ },
+ "mongolia-weekly": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "myjoyonline": {
+  "ok": true,
+  "items": 50
+ },
+ "daily-monitor": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "libya-herald": {
+  "ok": true,
+  "items": 50
+ },
+ "news24": {
+  "ok": false,
+  "items": 0,
+  "error": "fetch failed"
+ },
+ "the-star-ke": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "the-citizen-tz": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "new-vision": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "radio-dabanga": {
+  "ok": true,
+  "items": 12
+ },
+ "lusaka-times": {
+  "ok": true,
+  "items": 10
+ },
+ "nyasa-times": {
+  "ok": true,
+  "items": 10
+ },
+ "namibian": {
+  "ok": true,
+  "items": 12
+ },
+ "africanews": {
+  "ok": true,
+  "items": 50
+ },
+ "newzimbabwe": {
+  "ok": true,
+  "items": 20
+ },
+ "dw-africa": {
+  "ok": true,
+  "items": 5
+ },
+ "morocco-world-news": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "the-africa-report": {
+  "ok": true,
+  "items": 10
+ },
+ "addis-standard": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "ahram-online": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "rfi-afrique": {
+  "ok": true,
+  "items": 25
+ },
+ "france24-africa": {
+  "ok": true,
+  "items": 30
+ },
+ "jeune-afrique": {
+  "ok": true,
+  "items": 30
+ },
+ "allafrica": {
+  "ok": true,
+  "items": 32
+ },
+ "mmegi": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "hiiraan": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "sudan-tribune": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "abidjan-net": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "cameroon-news-agency": {
+  "ok": true,
+  "items": 10
+ },
+ "egypt-independent": {
+  "ok": true,
+  "items": 10
+ },
+ "libya-observer": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "sierra-leone-telegraph": {
+  "ok": true,
+  "items": 9
+ },
+ "tsa-alg-rie": {
+  "ok": true,
+  "items": 10
+ },
+ "npr-world": {
+  "ok": true,
+  "items": 10
+ },
+ "npr-news": {
+  "ok": true,
+  "items": 10
+ },
+ "ap-news": {
+  "ok": true,
+  "items": 10
+ },
+ "new-york-times-us": {
+  "ok": true,
+  "items": 20
+ },
+ "new-york-times-world": {
+  "ok": true,
+  "items": 50
+ },
+ "garowe-online": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 500"
+ },
+ "wall-street-journal": {
+  "ok": true,
+  "items": 20
+ },
+ "l-express-mu": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "fox-news": {
+  "ok": true,
+  "items": 25
+ },
+ "fox-news-us": {
+  "ok": true,
+  "items": 25
+ },
+ "cbs-news": {
+  "ok": true,
+  "items": 30
+ },
+ "cnn": {
+  "ok": true,
+  "items": 29
+ },
+ "seneweb": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "nbc-news": {
+  "ok": true,
+  "items": 25
+ },
+ "politico": {
+  "ok": true,
+  "items": 30
+ },
+ "the-hill": {
+  "ok": true,
+  "items": 15
+ },
+ "axios": {
+  "ok": true,
+  "items": 60
+ },
+ "tap-tunisia": {
+  "ok": false,
+  "items": 0,
+  "error": "fetch failed"
+ },
+ "los-angeles-times": {
+  "ok": true,
+  "items": 60
+ },
+ "cnbc": {
+  "ok": true,
+  "items": 30
+ },
+ "the-herald-zw": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "time": {
+  "ok": true,
+  "items": 25
+ },
+ "new-york-post": {
+  "ok": true,
+  "items": 21
+ },
+ "voa": {
+  "ok": true,
+  "items": 20
+ },
+ "the-atlantic": {
+  "ok": true,
+  "items": 25
+ },
+ "abc-news": {
+  "ok": true,
+  "items": 25
+ },
+ "rfe-rl": {
+  "ok": true,
+  "items": 20
+ },
+ "christian-science-monitor": {
+  "ok": true,
+  "items": 20
+ },
+ "club-of-mozambique": {
+  "ok": true,
+  "items": 10
+ },
+ "usa-today": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "national-post": {
+  "ok": true,
+  "items": 10
+ },
+ "eye-radio": {
+  "ok": true,
+  "items": 10
+ },
+ "mexico-news-daily": {
+  "ok": true,
+  "items": 10
+ },
+ "washington-examiner": {
+  "ok": true,
+  "items": 10
+ },
+ "bloomberg-politics": {
+  "ok": true,
+  "items": 20
+ },
+ "toronto-star": {
+  "ok": true,
+  "items": 50
+ },
+ "global-news": {
+  "ok": true,
+  "items": 10
+ },
+ "la-jornada": {
+  "ok": true,
+  "items": 60
+ },
+ "tico-times": {
+  "ok": true,
+  "items": 10
+ },
+ "liberian-observer": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "newsweek": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 406"
+ },
+ "jamaica-gleaner": {
+  "ok": true,
+  "items": 10
+ },
+ "14ymedio": {
+  "ok": true,
+  "items": 60
+ },
+ "jamaica-observer": {
+  "ok": true,
+  "items": 37
+ },
+ "radio-canada": {
+  "ok": true,
+  "items": 16
+ },
+ "haitian-times": {
+  "ok": true,
+  "items": 10
+ },
+ "la-prensa-gr-fica": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "diario-de-cuba": {
+  "ok": true,
+  "items": 10
+ },
+ "ctv-news": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "diario-libre": {
+  "ok": true,
+  "items": 60
+ },
+ "exc-lsior": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "barbados-today": {
+  "ok": true,
+  "items": 10
+ },
+ "clar-n": {
+  "ok": true,
+  "items": 10
+ },
+ "buenos-aires-times": {
+  "ok": true,
+  "items": 60
+ },
+ "mercopress": {
+  "ok": true,
+  "items": 10
+ },
+ "infobae": {
+  "ok": true,
+  "items": 60
+ },
+ "la-naci-n-ar": {
+  "ok": true,
+  "items": 60
+ },
+ "confidencial": {
+  "ok": true,
+  "items": 60
+ },
+ "ag-ncia-brasil": {
+  "ok": true,
+  "items": 10
+ },
+ "the-rio-times": {
+  "ok": true,
+  "items": 10
+ },
+ "estad-o": {
+  "ok": true,
+  "items": 20
+ },
+ "el-universal": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "trinidad-express": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 429"
+ },
+ "bahamas-tribune": {
+  "ok": true,
+  "items": 20
+ },
+ "poder360": {
+  "ok": true,
+  "items": 10
+ },
+ "la-tercera": {
+  "ok": true,
+  "items": 60
+ },
+ "folha-de-s-paulo": {
+  "ok": true,
+  "items": 60
+ },
+ "prensa-libre": {
+  "ok": true,
+  "items": 60
+ },
+ "el-tiempo": {
+  "ok": true,
+  "items": 10
+ },
+ "g1-globo": {
+  "ok": true,
+  "items": 60
+ },
+ "brazilian-report": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "biobiochile": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "el-comercio-pe": {
+  "ok": true,
+  "items": 60
+ },
+ "semana": {
+  "ok": true,
+  "items": 60
+ },
+ "cnn-brasil": {
+  "ok": true,
+  "items": 60
+ },
+ "cooperativa": {
+  "ok": true,
+  "items": 15
+ },
+ "el-universo": {
+  "ok": true,
+  "items": 60
+ },
+ "el-nacional-ve": {
+  "ok": true,
+  "items": 60
+ },
+ "efecto-cocuyo": {
+  "ok": true,
+  "items": 10
+ },
+ "el-espectador": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "p-gina-12": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "el-mostrador": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "colombia-one": {
+  "ok": true,
+  "items": 10
+ },
+ "andina": {
+  "ok": true,
+  "items": 20
+ },
+ "el-pitazo": {
+  "ok": true,
+  "items": 10
+ },
+ "caracas-chronicles": {
+  "ok": true,
+  "items": 3
+ },
+ "abc-color": {
+  "ok": true,
+  "items": 60
+ },
+ "stabroek-news": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "washington-post": {
+  "ok": true,
+  "items": 8
+ },
+ "primicias": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "la-rep-blica-pe": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "el-pa-s-am-rica": {
+  "ok": true,
+  "items": 60
+ },
+ "france24-americas": {
+  "ok": true,
+  "items": 30
+ },
+ "los-tiempos": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "montevideo-portal": {
+  "ok": true,
+  "items": 8
+ },
+ "starnieuws": {
+  "ok": true,
+  "items": 17
+ },
+ "infobae-am-rica": {
+  "ok": true,
+  "items": 60
+ },
+ "perfil": {
+  "ok": true,
+  "items": 50
+ },
+ "mbito": {
+  "ok": true,
+  "items": 20
+ },
+ "dw-espa-ol": {
+  "ok": true,
+  "items": 13
+ },
+ "sydney-morning-herald": {
+  "ok": true,
+  "items": 20
+ },
+ "actualite-cd": {
+  "ok": true,
+  "items": 10
+ },
+ "the-guardian-australia": {
+  "ok": true,
+  "items": 20
+ },
+ "the-age": {
+  "ok": true,
+  "items": 20
+ },
+ "abc-australia": {
+  "ok": true,
+  "items": 25
+ },
+ "kaieteur-news": {
+  "ok": true,
+  "items": 25
+ },
+ "the-conversation-au": {
+  "ok": true,
+  "items": 50
+ },
+ "brisbane-times": {
+  "ok": true,
+  "items": 20
+ },
+ "ltima-hora": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "watoday": {
+  "ok": true,
+  "items": 20
+ },
+ "crikey": {
+  "ok": true,
+  "items": 10
+ },
+ "el-deber": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "el-observador-uy": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "rnz-world": {
+  "ok": true,
+  "items": 7
+ },
+ "the-lowy-interpreter": {
+  "ok": true,
+  "items": 50
+ },
+ "stuff": {
+  "ok": true,
+  "items": 60
+ },
+ "news-com-au": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "rnz": {
+  "ok": true,
+  "items": 51
+ },
+ "rnz-pacific": {
+  "ok": true,
+  "items": 17
+ },
+ "canberra-times": {
+  "ok": true,
+  "items": 20
+ },
+ "peru-reports": {
+  "ok": true,
+  "items": 15
+ },
+ "sbs-news": {
+  "ok": true,
+  "items": 25
+ },
+ "americas-quarterly": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "nz-herald": {
+  "ok": true,
+  "items": 10
+ },
+ "abc-australia-world": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "interest-co-nz": {
+  "ok": true,
+  "items": 20
+ },
+ "newsroom-nz": {
+  "ok": true,
+  "items": 10
+ },
+ "fiji-village": {
+  "ok": false,
+  "items": 0,
+  "error": "readTagExp returned undefined at position 92327. Context: \">\n            <div cl"
+ },
+ "michael-west": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "the-spinoff": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "1news": {
+  "ok": true,
+  "items": 60
+ },
+ "post-courier": {
+  "ok": true,
+  "items": 10
+ },
+ "otago-daily-times": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "el-pa-s-uy": {
+  "ok": true,
+  "items": 20
+ },
+ "matangi-tonga": {
+  "ok": true,
+  "items": 9
+ },
+ "pacific-islands-news": {
+  "ok": true,
+  "items": 1
+ },
+ "the-new-daily": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "guam-pdn": {
+  "ok": true,
+  "items": 50
+ },
+ "island-sun": {
+  "ok": true,
+  "items": 10
+ },
+ "marshall-islands-journal": {
+  "ok": true,
+  "items": 10
+ },
+ "samoa-observer": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "asia-pacific-report": {
+  "ok": true,
+  "items": 50
+ },
+ "the-australian-financial-review": {
+  "ok": true,
+  "items": 20
+ },
+ "vanuatu-daily-post": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 429"
+ },
+ "islands-business": {
+  "ok": true,
+  "items": 12
+ },
+ "island-times-palau": {
+  "ok": true,
+  "items": 20
+ },
+ "jerusalem-post": {
+  "ok": true,
+  "items": 26
+ },
+ "tahiti-infos": {
+  "ok": true,
+  "items": 20
+ },
+ "pacific-beat-abc": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "cook-islands-news": {
+  "ok": true,
+  "items": 10
+ },
+ "ynet-news": {
+  "ok": true,
+  "items": 30
+ },
+ "solomon-star": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "kuam-news": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 400"
+ },
+ "marianas-variety": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 429"
+ },
+ "the-national-png": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "fiji-times": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "arutz-sheva": {
+  "ok": true,
+  "items": 10
+ },
+ "i24news": {
+  "ok": false,
+  "items": 0,
+  "error": "Maximum nested tags exceeded"
+ },
+ "jta": {
+  "ok": true,
+  "items": 20
+ },
+ "israel-hayom": {
+  "ok": true,
+  "items": 10
+ },
+ "les-nouvelles-cal-doniennes": {
+  "ok": true,
+  "items": 50
+ },
+ "ynet-he": {
+  "ok": true,
+  "items": 30
+ },
+ "iran-international": {
+  "ok": true,
+  "items": 50
+ },
+ "arab-news": {
+  "ok": true,
+  "items": 50
+ },
+ "iranwire": {
+  "ok": true,
+  "items": 60
+ },
+ "kiribati-independent": {
+  "ok": false,
+  "items": 0,
+  "error": "fetch failed"
+ },
+ "radio-farda": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "saudi-gazette": {
+  "ok": true,
+  "items": 50
+ },
+ "jns": {
+  "ok": true,
+  "items": 30
+ },
+ "times-of-israel": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "the-national-uae": {
+  "ok": true,
+  "items": 60
+ },
+ "maariv": {
+  "ok": true,
+  "items": 20
+ },
+ "kaselehlie-press": {
+  "ok": false,
+  "items": 0,
+  "error": "fetch failed"
+ },
+ "gulf-today": {
+  "ok": false,
+  "items": 0,
+  "error": "Maximum nested tags exceeded"
+ },
+ "naharnet": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "bianet": {
+  "ok": true,
+  "items": 50
+ },
+ "jewish-press": {
+  "ok": true,
+  "items": 10
+ },
+ "globes": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "al-arabiya": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "al-monitor": {
+  "ok": true,
+  "items": 20
+ },
+ "shafaq-news": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "rudaw": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "h-rriyet-daily-news": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "france24-middle-east": {
+  "ok": true,
+  "items": 30
+ },
+ "gulf-news": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "ynet-news-world": {
+  "ok": true,
+  "items": 1
+ },
+ "dw-middle-east": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "khaleej-times": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "jerusalem-post-israel": {
+  "ok": true,
+  "items": 30
+ },
+ "arab-times": {
+  "ok": false,
+  "items": 0,
+  "error": "readTagExp returned undefined at position 5400. Context: \"&!x(e)&&(\"array\"===n||"
+ },
+ "kuwait-times": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "jordan-times": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "jerusalem-post-me": {
+  "ok": true,
+  "items": 30
+ },
+ "turkish-minute": {
+  "ok": true,
+  "items": 10
+ },
+ "times-of-oman": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "iran-international-fa": {
+  "ok": true,
+  "items": 50
+ },
+ "l-orient-today": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "muscat-daily": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "kayhan-london": {
+  "ok": true,
+  "items": 17
+ },
+ "syria-direct": {
+  "ok": true,
+  "items": 10
+ },
+ "enab-baladi": {
+  "ok": true,
+  "items": 20
+ },
+ "the-forward": {
+  "ok": true,
+  "items": 20
+ },
+ "kurdistan24": {
+  "ok": false,
+  "items": 0,
+  "error": "Maximum nested tags exceeded"
+ },
+ "walla": {
+  "ok": true,
+  "items": 30
+ },
+ "duvar-english": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "times-of-israel-israel": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "egypt-today": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "times-of-israel-liveblog": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "armenpress": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "foundation-for-defense-of-democracies": {
+  "ok": true,
+  "items": 50
+ },
+ "azernews": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "yemen-monitor": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "iraqi-news": {
+  "ok": true,
+  "items": 10
+ },
+ "jewish-news-syndicate-israel": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "the-media-line": {
+  "ok": true,
+  "items": 10
+ },
+ "al-arabiya-me": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "the-peninsula-qatar": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "wam": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "gulf-daily-news": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "gulf-business": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "israel-defense": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "calcalist-tech": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "businessday-ng": {
+  "ok": true,
+  "items": 5
+ },
+ "channels-tv": {
+  "ok": true,
+  "items": 10
+ },
+ "zawya": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "kurdistan-chronicle": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "jfeed": {
+  "ok": true,
+  "items": 50
+ },
+ "qatar-tribune": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "citizen-za": {
+  "ok": true,
+  "items": 60
+ },
+ "la-prensa-panam": {
+  "ok": true,
+  "items": 60
+ },
+ "oman-observer": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "medyascope-en": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "kenyans-co-ke": {
+  "ok": true,
+  "items": 20
+ },
+ "middle-east-forum": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "iss-africa": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "daily-news-egypt": {
+  "ok": true,
+  "items": 10
+ },
+ "thisday": {
+  "ok": true,
+  "items": 25
+ },
+ "the-eastafrican": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "fbc-news": {
+  "ok": true,
+  "items": 10
+ },
+ "sabc-news": {
+  "ok": true,
+  "items": 10
+ },
+ "graphic-online": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "bulawayo24": {
+  "ok": true,
+  "items": 50
+ },
+ "semafor-africa": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "daily-tribune-bh": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "madagascar-tribune": {
+  "ok": true,
+  "items": 10
+ },
+ "capital-fm-ke": {
+  "ok": true,
+  "items": 10
+ },
+ "ethiopia-insight": {
+  "ok": true,
+  "items": 9
+ },
+ "le-faso": {
+  "ok": true,
+  "items": 45
+ },
+ "lesotho-times": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "the-point-gm": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "dakaractu": {
+  "ok": true,
+  "items": 20
+ },
+ "shabelle-media": {
+  "ok": true,
+  "items": 10
+ },
+ "zimlive": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "borkena": {
+  "ok": false,
+  "items": 0,
+  "error": "no items"
+ },
+ "eyewitness-news": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "sudans-post": {
+  "ok": true,
+  "items": 10
+ },
+ "maliweb": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "africa-confidential": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "le360": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "citinewsroom": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "mainichi-en": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 403"
+ },
+ "africa-intelligence": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "nhk-world-en": {
+  "ok": false,
+  "items": 0,
+  "error": "HTTP 404"
+ },
+ "cbc-news": {
+  "ok": false,
+  "items": 0,
+  "error": "The operation was aborted due to timeout"
+ },
+ "cbc-canada": {
+  "ok": false,
+  "items": 0,
+  "error": "The operation was aborted due to timeout"
+ },
+ "ahval": {
+  "ok": false,
+  "items": 0,
+  "error": "fetch failed"
+ }
+}
